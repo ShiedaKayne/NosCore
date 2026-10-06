@@ -504,6 +504,7 @@ Log.txt
 *.orig
 
 /postgres
+/postgres17
 
 # Claude Code
 .claude/
